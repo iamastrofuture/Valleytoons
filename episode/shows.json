@@ -1,0 +1,210 @@
+{
+  "lazarus subbed episode 1": {
+    "title": "Lazarus",
+    "episode": 1,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409377/80c25c5f-7946-4fca-aa3a-8f7938a017fd",
+    "series_slug": "lazarus",
+    "subdub_slug": "subbed"
+  },
+  "lazarus dubbed episode 1": {
+    "title": "Lazarus",
+    "episode": 1,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409377/f4c0f712-5a2a-4d2d-b399-1cae8528f5b4",
+    "series_slug": "lazarus",
+    "subdub_slug": "dubbed"
+  },
+  "gangsta sub episode 1": {
+    "title": "Gangsta",
+    "episode": 1,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409377/80c25c5f-7946-4fca-aa3a-8f7938a017fd",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 2": {
+    "title": "Gangsta",
+    "episode": 2,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/dd6a3558-406b-4db1-b49b-36e4adfcc224",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 3": {
+    "title": "Gangsta",
+    "episode": 3,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/deba9e53-9f72-4ccd-9e03-92b304a6d08e",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 4": {
+    "title": "Gangsta",
+    "episode": 4,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/5bc5c6e4-0347-404f-a440-a3b6807865a4",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 5": {
+    "title": "Gangsta",
+    "episode": 5,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/a8c086bf-e9c8-4090-aa21-16b74e60c813",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 6": {
+    "title": "Gangsta",
+    "episode": 6,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/69052090-2286-4fdc-9f90-ea27a263c6c0",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 7": {
+    "title": "Gangsta",
+    "episode": 7,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/684f8afb-8c9f-4f02-a0ca-c545284d319e",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 8": {
+    "title": "Gangsta",
+    "episode": 8,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/2d14e925-e263-44f9-933d-84865e532678",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 9": {
+    "title": "Gangsta",
+    "episode": 9,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/20aadb9e-ecc1-46df-bd0b-b26125ca8cd7",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 10": {
+    "title": "Gangsta",
+    "episode": 10,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/962e1cd9-1c89-439a-8bbb-491fd7202146",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 11": {
+    "title": "Gangsta",
+    "episode": 11,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/19dea156-0038-4c4e-bb0a-662d21549cb9",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta sub episode 12": {
+    "title": "Gangsta",
+    "episode": 12,
+    "subdub": "subbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409607/2b7006ae-77c9-44e2-856b-36708e693f30",
+    "series_slug": "gangsta",
+    "subdub_slug": "sub"
+  },
+  "gangsta dub episode 1": {
+    "title": "Gangsta",
+    "episode": 1,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/7552b97e-98b4-4fec-b5fe-80ba36677e22",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 2": {
+    "title": "Gangsta",
+    "episode": 2,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/415d8f73-6659-4c8e-8cbd-329cbf9a34e5",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 3": {
+    "title": "Gangsta",
+    "episode": 3,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/8b649046-7344-4faf-a77d-ca9d142fcf75",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 4": {
+    "title": "Gangsta",
+    "episode": 4,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/039d8750-4107-4d07-943f-cc027aacaf56",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 5": {
+    "title": "Gangsta",
+    "episode": 5,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/f6512c69-b742-4b33-8dc3-025b461e71f8",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 6": {
+    "title": "Gangsta",
+    "episode": 6,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/05d20a88-907b-4fb1-9b22-48f6aa4c3281",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 7": {
+    "title": "Gangsta",
+    "episode": 7,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/92063e51-f91a-4c01-b3ee-55ec81cf549b",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 8": {
+    "title": "Gangsta",
+    "episode": 8,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/f77c6e83-7154-4b9c-bb63-e33b9382d238",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 9": {
+    "title": "Gangsta",
+    "episode": 9,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/fa2a1619-e692-4b0e-a3c6-d98ad296147c",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 10": {
+    "title": "Gangsta",
+    "episode": 10,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/6ea99726-08e6-4a0a-a669-5e42e77418cc",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 11": {
+    "title": "Gangsta",
+    "episode": 11,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/eecb62a9-1f0d-4474-b866-d91d7872433c",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  },
+  "gangsta dub episode 12": {
+    "title": "Gangsta",
+    "episode": 12,
+    "subdub": "dubbed",
+    "iframe": "https://iframe.mediadelivery.net/play/409609/775b3e54-f444-47b9-828a-4c016ce5241d",
+    "series_slug": "gangsta",
+    "subdub_slug": "dub"
+  }
+}
