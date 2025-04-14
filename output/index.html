@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ValleyToons</title>
+    <style>
+        body { font-family: Arial; background: #111; color: white; }
+        .search-bar { text-align: center; margin: 20px; }
+        .grid { display: flex; flex-wrap: wrap; justify-content: center; }
+        .card { margin: 10px; text-align: center; }
+        img { width: 200px; border-radius: 8px; }
+        a { color: #00ffff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Search shows..." onkeyup="filterShows()" style="padding: 10px; width: 50%;">
+    </div>
+    <div class="grid" id="showGrid">
+        
+    <div class="card">
+        <a href="shows/lazarus_dubbed.html">
+            <img src="images/lazarus-thumb.jpeg" alt="Lazarus Dubbed">
+            <br>Lazarus Dubbed
+        </a>
+    </div>
+    
+    <div class="card">
+        <a href="shows/lazarus_subbed.html">
+            <img src="images/lazarus-thumb.jpeg" alt="Lazarus Subbed">
+            <br>Lazarus Subbed
+        </a>
+    </div>
+    
+    <div class="card">
+        <a href="shows/gangsta_sub.html">
+            <img src="images/gangsta-thumb.jpeg" alt="Gangsta Sub">
+            <br>Gangsta Sub
+        </a>
+    </div>
+    
+    <div class="card">
+        <a href="shows/gangsta_dub.html">
+            <img src="images/gangsta-thumb.jpeg" alt="Gangsta Dub">
+            <br>Gangsta Dub
+        </a>
+    </div>
+    
+    <div class="card">
+        <a href="shows/erased_sub.html">
+            <img src="images/erased-thumb.jpeg" alt="Erased Sub">
+            <br>Erased Sub
+        </a>
+    </div>
+    
+    </div>
+    <script>
+        function filterShows() {
+            var input = document.getElementById('searchInput').value.toLowerCase();
+            var cards = document.querySelectorAll('.card');
+            cards.forEach(card => {
+                const text = card.innerText.toLowerCase();
+                card.style.display = text.includes(input) ? 'block' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>
