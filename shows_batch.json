@@ -1,0 +1,27 @@
+[
+    {
+        "show_name": "Bleach 1,000 Year Blood War (Sub)",
+        "file_prefix": "bleach_1000ybw_sub",
+        "num_episodes": 12
+    },
+    {
+        "show_name": "Demon Slayer Season 1 (Sub)",
+        "file_prefix": "demon_slayer_s1_sub",
+        "num_episodes": 26
+    },
+    {
+        "show_name": "Demon Slayer Season 1 (Dub)",
+        "file_prefix": "demon_slayer_s1_dub",
+        "num_episodes": 26
+    },
+    {
+        "show_name": "Kaiju No.8 (Sub)",
+        "file_prefix": "kaiju_no8_sub",
+        "num_episodes": 12
+    },
+    {
+        "show_name": "Kaiju No.8 (Dub)",
+        "file_prefix": "kaiju_no8_dub",
+        "num_episodes": 12
+    }
+]
